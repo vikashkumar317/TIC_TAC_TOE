@@ -1,4 +1,4 @@
-# TIC_TAC_TOE
-It is TIC_TAC_TOE game.It is a two player game.
-           For playing, press key (1-9) to move your turn in the respective box.
-                       Enjoy playing.
+Voice assistant
+How to use: 1: Download source code. 2: Run start.py 3: Say listen for start listening commands
+
+Note: you can give voice commands in hindi language also
